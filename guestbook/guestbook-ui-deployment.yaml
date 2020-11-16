@@ -21,3 +21,5 @@ spec:
         env:
           - name: FOO
             value: BAR
+          - name: BAZ
+            value: WTF
