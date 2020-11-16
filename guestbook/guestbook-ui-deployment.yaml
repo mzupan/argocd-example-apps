@@ -22,4 +22,4 @@ spec:
           - name: FOO
             value: BAR
           - name: BAZ
-            value: WTF
+            value: TEST
